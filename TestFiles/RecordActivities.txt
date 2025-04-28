@@ -1,0 +1,56 @@
+/Users/StuffMy/prog/XDataMining/One.ipynb, 2834, 2024-10-30 22:59:48
+/Users/StuffMy/prog/XDataMining/TrackAll.py, 735, 2025-03-31 00:13:22
+/Users/StuffMy/prog/XDataMining/twitter_etl.py, 2008, 2024-11-19 23:39:17
+/Users/StuffMy/prog/XDataMining/holidays_pick.py, 233, 2025-02-21 23:44:28
+/Users/StuffMy/prog/XDataMining/tweet.py, 314, 2024-12-01 22:50:23
+/Users/StuffMy/prog/XDataMining/hello.csv, 24, 2024-11-04 23:08:45
+/Users/StuffMy/prog/XDataMining/Twitter_etl.ipynb, 13648, 2024-11-04 22:24:21
+/Users/StuffMy/prog/XDataMining/tweet_snscrape.py, 1293, 2024-12-01 22:22:15
+/Users/StuffMy/prog/XDataMining/config.ini, 67, 2024-12-03 22:22:04
+/Users/StuffMy/prog/XDataMining/.gitignore, 5, 2024-11-03 21:40:12
+/Users/StuffMy/prog/XDataMining/first.py, 373, 2025-02-17 23:31:23
+/Users/StuffMy/prog/XDataMining/.env, 630, 2024-12-01 20:51:54
+/Users/StuffMy/prog/XDataMining/GeneratePW.py, 365, 2025-02-17 23:09:52
+/Users/StuffMy/prog/XDataMining/tweet_new_elon.py, 2310, 2025-02-09 18:16:02
+/Users/StuffMy/prog/XDataMining/numtry.py, 538, 2025-03-30 23:13:26
+/Users/StuffMy/prog/XDataMining/writeInFile.py, 355, 2025-03-30 23:34:44
+/Users/StuffMy/prog/XDataMining/hello.txt, 3606, 2024-12-06 10:59:26
+/Users/StuffMy/prog/XDataMining/date.py, 494, 2025-02-19 22:02:24
+/Users/StuffMy/prog/XDataMining/One.ipynb28342024-10-30 22:59:48
+/Users/StuffMy/prog/XDataMining/.DS_Store61482025-03-31 00:14:33
+/Users/StuffMy/prog/XDataMining/TrackAll.py7212025-03-31 00:15:49
+/Users/StuffMy/prog/XDataMining/twitter_etl.py20082024-11-19 23:39:17
+/Users/StuffMy/prog/XDataMining/holidays_pick.py2332025-02-21 23:44:28
+/Users/StuffMy/prog/XDataMining/tweet.py3142024-12-01 22:50:23
+/Users/StuffMy/prog/XDataMining/hello.csv242024-11-04 23:08:45
+/Users/StuffMy/prog/XDataMining/Twitter_etl.ipynb136482024-11-04 22:24:21
+/Users/StuffMy/prog/XDataMining/tweet_snscrape.py12932024-12-01 22:22:15
+/Users/StuffMy/prog/XDataMining/config.ini672024-12-03 22:22:04
+/Users/StuffMy/prog/XDataMining/.gitignore52024-11-03 21:40:12
+/Users/StuffMy/prog/XDataMining/first.py3732025-02-17 23:31:23
+/Users/StuffMy/prog/XDataMining/.env6302024-12-01 20:51:54
+/Users/StuffMy/prog/XDataMining/GeneratePW.py3652025-02-17 23:09:52
+/Users/StuffMy/prog/XDataMining/tweet_new_elon.py23102025-02-09 18:16:02
+/Users/StuffMy/prog/XDataMining/numtry.py5382025-03-30 23:13:26
+/Users/StuffMy/prog/XDataMining/writeInFile.py3552025-03-30 23:34:44
+/Users/StuffMy/prog/XDataMining/hello.txt36062024-12-06 10:59:26
+/Users/StuffMy/prog/XDataMining/date.py4942025-02-19 22:02:24
+/Users/StuffMy/prog/XDataMining/One.ipynb28342024-10-30 22:59:48
+/Users/StuffMy/prog/XDataMining/.DS_Store81962025-03-31 00:18:48
+/Users/StuffMy/prog/XDataMining/TrackAll.py7212025-03-31 00:15:49
+/Users/StuffMy/prog/XDataMining/twitter_etl.py20082024-11-19 23:39:17
+/Users/StuffMy/prog/XDataMining/holidays_pick.py2332025-02-21 23:44:28
+/Users/StuffMy/prog/XDataMining/tweet.py3142024-12-01 22:50:23
+/Users/StuffMy/prog/XDataMining/hello.csv242024-11-04 23:08:45
+/Users/StuffMy/prog/XDataMining/Twitter_etl.ipynb136482024-11-04 22:24:21
+/Users/StuffMy/prog/XDataMining/tweet_snscrape.py12932024-12-01 22:22:15
+/Users/StuffMy/prog/XDataMining/config.ini672024-12-03 22:22:04
+/Users/StuffMy/prog/XDataMining/.gitignore52024-11-03 21:40:12
+/Users/StuffMy/prog/XDataMining/first.py3732025-02-17 23:31:23
+/Users/StuffMy/prog/XDataMining/.env6302024-12-01 20:51:54
+/Users/StuffMy/prog/XDataMining/GeneratePW.py3652025-02-17 23:09:52
+/Users/StuffMy/prog/XDataMining/tweet_new_elon.py23102025-02-09 18:16:02
+/Users/StuffMy/prog/XDataMining/numtry.py5382025-03-30 23:13:26
+/Users/StuffMy/prog/XDataMining/writeInFile.py3552025-03-30 23:34:44
+/Users/StuffMy/prog/XDataMining/hello.txt36062024-12-06 10:59:26
+/Users/StuffMy/prog/XDataMining/date.py4942025-02-19 22:02:24
