@@ -8,6 +8,11 @@ Users/StuffMy/prog/XDataMining/ActivityTracker/__pycache__
 Users/StuffMy/prog/XDataMining/ImageConverter/__pycache__
 Users/StuffMy/prog/XDataMining/ImageConverter/Image
 
+/Users/StuffMy/prog/XDataMining/Convert_Image/compressed
+/Users/StuffMy/prog/XDataMining/Convert_Image/uploads
+
+/Users/StuffMy/prog/XDataMining/Convert_Image/__pycache__
+
 /Users/StuffMy/prog/XDataMining/twitter_etl.py
 
 Twitter_etl.ipynb
