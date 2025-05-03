@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Image Compressor</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Image Compressor</h1>
+        <div id="dropArea">
+            <p>Drag and drop images here or click to select files</p>
+            <input type="file" id="fileElem" multiple accept="image/*" style="display:none" />
+            <label class="button" for="fileElem">Select Images</label>
+        </div>
+        <div id="fileList"></div>
+        <button id="uploadBtn" disabled>Upload and Compress</button>
+        <div id="downloadLinks"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
