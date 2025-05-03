@@ -16,7 +16,6 @@ def main():
         print("Usage: python main.py <image_path1> <image_path2> ...")
         sys.exit(1)
 
-    image_paths = sys.argv[1:]
     print()
     for input_path in image_paths:
         if not os.path.isfile(input_path):
